@@ -64,5 +64,5 @@ new Vue({
     })
   },
   render: function (h) { return h(App) }
-}).$mount('#app_serviceinfo')
+}).$mount('#app_thutuchuyenxa')
 
